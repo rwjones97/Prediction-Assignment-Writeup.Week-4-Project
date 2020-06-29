@@ -1,5 +1,8 @@
 # Prediction-Assignment-Writeup.Week-4-Project
 
+This assignment comes from the JHU Data Science Program. Below is the assignment copied from the website to give clarity to what is being asked. 
+
+
 Prediction Assignment Writeupless 
 Background
 
